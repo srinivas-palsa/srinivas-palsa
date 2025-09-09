@@ -3,7 +3,7 @@
 - 🎓 Computer Science Engineering Student at KPRIT
 - 🔭 I’m currently working on Java Backend 
 - 🌱 I’m currently learning Java DSA
-- ✉ How to reach me: palsasrinivas03@gmail.com
+- ✉ Reach me: @palsasrinivas03@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=srinivas-palsa&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=srinivas-palsa&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-palsa&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=srinivas-palsa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srinivas-palsa&icon=4&color=0)](https://visitcount.itsvg.in)
