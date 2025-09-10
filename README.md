@@ -19,5 +19,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=srinivas-palsa&icon=5&color=10)](https://visitcount.itsvg.in)
